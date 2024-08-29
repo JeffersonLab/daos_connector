@@ -1,2 +1,2 @@
 # daos_connector
-A C++ DAOS client headers wrapper.
+A C++ wrapper for DAOS client header files.
